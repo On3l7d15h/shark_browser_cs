@@ -1,0 +1,237 @@
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.AssemblyReference.cache
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.Properties.Resources.resources
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.GenerateResource.cache
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.CoreCompileInputs.cache
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\chrome_100_percent.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\chrome_200_percent.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\chrome_elf.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\d3dcompiler_47.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\icudtl.dat
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\libcef.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\libEGL.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\libGLESv2.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\LICENSE.txt
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\af.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\am.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ar.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\bg.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\bn.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ca.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\cs.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\da.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\de.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\el.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\en-GB.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\en-US.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\es-419.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\es.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\et.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\fa.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\fi.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\fil.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\fr.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\gu.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\he.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\hi.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\hr.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\hu.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\id.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\it.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ja.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\kn.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ko.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\lt.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\lv.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ml.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\mr.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ms.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\nb.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\nl.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\pl.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\pt-BR.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\pt-PT.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ro.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ru.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\sk.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\sl.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\sr.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\sv.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\sw.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ta.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\te.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\th.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\tr.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\uk.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\ur.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\vi.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\zh-CN.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\locales\zh-TW.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\README.txt
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\resources.pak
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\snapshot_blob.bin
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\v8_context_snapshot.bin
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\vk_swiftshader.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\vk_swiftshader_icd.json
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\vulkan-1.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\EasyTabs.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Svg.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.User32.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\EasyTabs.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Svg.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Svg.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.CopyComplete
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.frmMain.resources
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Guna.UI2.dll
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.Forms.Settings.frmSettings.resources
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.exe.config
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.exe
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.pdb
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\Shark browser.exe
+C:\Users\onell\source\repos\SolutionAppSharkBrowser\WindowsFormsAppSharkBrowser\obj\Debug\Shark browser.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\chrome_100_percent.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\chrome_200_percent.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\chrome_elf.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\d3dcompiler_47.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\icudtl.dat
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\libcef.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\libEGL.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\libGLESv2.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\LICENSE.txt
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\af.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\am.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ar.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\bg.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\bn.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ca.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\cs.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\da.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\de.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\el.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\en-GB.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\en-US.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\es-419.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\es.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\et.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\fa.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\fi.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\fil.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\fr.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\gu.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\he.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\hi.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\hr.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\hu.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\id.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\it.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ja.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\kn.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ko.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\lt.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\lv.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ml.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\mr.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ms.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\nb.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\nl.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\pl.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\pt-BR.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\pt-PT.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ro.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ru.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\sk.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\sl.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\sr.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\sv.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\sw.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ta.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\te.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\th.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\tr.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\uk.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\ur.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\vi.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\zh-CN.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\locales\zh-TW.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\README.txt
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\resources.pak
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\snapshot_blob.bin
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\v8_context_snapshot.bin
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\vk_swiftshader.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\vk_swiftshader_icd.json
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\vulkan-1.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.exe.config
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.exe
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Shark browser.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\EasyTabs.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Svg.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.User32.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.Core.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\CefSharp.WinForms.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\EasyTabs.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Svg.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Svg.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.User32.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.AssemblyReference.cache
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.Forms.Settings.frmSettings.resources
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.frmMain.resources
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.Properties.Resources.resources
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.GenerateResource.cache
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.CoreCompileInputs.cache
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\WindowsFormsAppSharkBrowser.csproj.CopyComplete
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\Shark browser.exe
+C:\Users\onell\Desktop\C# projects\shark_browser_cs\WindowsFormsAppSharkBrowser\obj\Debug\Shark browser.pdb

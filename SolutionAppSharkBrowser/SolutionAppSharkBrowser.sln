@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppSharkBrowser", "WindowsFormsAppSharkBrowser\WindowsFormsAppSharkBrowser.csproj", "{28C6913B-63AD-4229-B9CF-35D943FD0275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28C6913B-63AD-4229-B9CF-35D943FD0275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C6913B-63AD-4229-B9CF-35D943FD0275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C6913B-63AD-4229-B9CF-35D943FD0275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C6913B-63AD-4229-B9CF-35D943FD0275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01EA9F41-0138-4138-B299-D4D1FBBB8E86}
+	EndGlobalSection
+EndGlobal
