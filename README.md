@@ -14,7 +14,7 @@ I bring us a new project developed with the C# tecnology, it's a web browser tha
 
 
 
-![](C:\Users\onell\Desktop\C%23%20projects\shark_browser_cs\preview\preview.png)
+![](preview\preview.png)
 
 
 
@@ -44,7 +44,7 @@ I bring us a new project developed with the C# tecnology, it's a web browser tha
 
 
 
-![](C:\Users\onell\Desktop\C%23%20projects\shark_browser_cs\preview\settings.png)
+![](preview\settings.png)
 
 
 
