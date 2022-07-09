@@ -1,3 +1,5 @@
 *.ddl filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+SolutionAppSharkBrowser/packages/cef.redist.x64.102.0.10/CEF/libcef.dll filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]SolutionAppSharkBrowser/WindowsFormsAppSharkBrowser/bin/Debug/libcef.dll[[:space:]] filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
